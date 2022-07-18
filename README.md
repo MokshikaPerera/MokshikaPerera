@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mokshikaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mokshikaperera" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mokshika perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshika perera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mokshika-perera-a6a748221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mokshika-perera-a6a748221/" height="30" width="40" /></a>
 <a href="https://fb.com/diwyana perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwyana perera" height="30" width="40" /></a>
 <a href="https://instagram.com/diwyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwyana" height="30" width="40" /></a>
 </p>
