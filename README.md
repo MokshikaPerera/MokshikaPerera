@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mokshikaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mokshikaperera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mokshika-perera-a6a748221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshika-perera-a6a748221" height="30" width="40" /></a>
-<a href="https://fb.com/diwyana perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwyana perera" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/diwyana.perera.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/diwyana.perera.90" height="30" width="40" /></a>
 <a href="https://instagram.com/diwyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwyana" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshikaperera&show_icons=true&locale=en" alt="mokshikaperera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshikaperera&" alt="mokshikaperera" /></p>
+
