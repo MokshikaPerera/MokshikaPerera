@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **MERN,Java**
+- 💬 Ask me about **MERN,Java,Vue**
 
 - 📫 How to reach me **mokshikaperera98@gmail.com**
 
