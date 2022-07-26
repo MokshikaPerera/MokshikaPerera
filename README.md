@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.careerguide.com/career/online-career-counselling/8-ways-to-know-web-development-is-a-good-career-for-you))](https://rishavchanda.io
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif]](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
