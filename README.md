@@ -2,7 +2,7 @@
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71142129/185351644-a25da5a4-8711-4667-b2f4-469919f53851.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshikaperera&label=Profile%20views&color=0e75b6&style=flat" alt="mokshikaperera" /> </p>
 
