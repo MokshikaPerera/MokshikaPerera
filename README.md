@@ -2,7 +2,7 @@
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71142129/185351644-a25da5a4-8711-4667-b2f4-469919f53851.png">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71142129/185351856-2ad40f33-3de4-4233-a870-9fe018e1489e.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshikaperera&label=Profile%20views&color=0e75b6&style=flat" alt="mokshikaperera" /> </p>
 
