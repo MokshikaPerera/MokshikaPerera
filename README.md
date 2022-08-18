@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshikaperera&label=Profile%20views&color=0e75b6&style=flat" alt="mokshikaperera" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mokshikaperera" target="blank"><img src="https://img.shields.io/twitter/follow/mokshikaperera?logo=twitter&style=for-the-badge" alt="mokshikaperera" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mokshikaperera" target="blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="mokshikaperera" /></a> </p>
 
 - 🌱 I’m currently learning **Angular**
 
