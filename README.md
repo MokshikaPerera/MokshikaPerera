@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif)](https://rishavchanda.io
+[![MasterHead](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
