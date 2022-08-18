@@ -1,8 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)](https://rishavchanda.io
+[![MasterHead](http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="1000" height="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshikaperera&label=Profile%20views&color=0e75b6&style=flat" alt="mokshikaperera" /> </p>
 
