@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif)](https://rishavchanda.io
+[![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
