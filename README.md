@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io
+[![MasterHead](https://i.makeagif.com/media/11-20-2015/yqut4T.gif)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
