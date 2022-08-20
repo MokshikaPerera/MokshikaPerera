@@ -1,4 +1,4 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)](https://rishavchanda.io
+[![MasterHead](https://user-images.githubusercontent.com/38506259/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597.gif)](https://rishavchanda.io
 )
 <h1 align="center">Hi 👋, I'm Mokshika Perera</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
